@@ -8,31 +8,15 @@
 
 <div align="center">
 
-```java
-public class HarishkumarVS {
+🧑‍💻 **B.E. CSE (Cyber Security)** — Sri Shakthi Institute of Engineering & Technology | CGPA: **8.0 / 10**
 
-    String name        = "Harishkumar VS";
-    String location    = "Tamil Nadu, India";
-    String degree      = "B.E. CSE (Cyber Security) — CGPA: 8.0/10";
-
-    String[] stack     = {
-        "Core Java", "Python", "SQL", "C",
-        "HTML", "CSS", "Linux Bash Scripting"
-    };
-
-    String[] focus     = {
-        "Ethical Hacking", "Web Application Security",
-        "Network Analysis", "Vulnerability Assessment",
-        "Cryptography", "Digital Forensics"
-    };
-}
-```
+📍 Tamil Nadu, India &nbsp;|&nbsp; 🔐 Cyber Security Undergraduate &nbsp;|&nbsp; 🐧 Linux Enthusiast
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👾 About Me
 
 > *Motivated Cyber Security undergraduate with a strong foundation in networking, Linux systems, and ethical hacking. Passionate about identifying vulnerabilities and building secure digital environments.*
 
@@ -63,36 +47,6 @@ public class HarishkumarVS {
 
 ---
 
-## 🚀 Projects
-
-### 🔍 Echo Vault | Web Forensics Tool *(Dec 2025 – Feb 2026)*
-> A data recovery system using low-level file system analysis.
-
-- 🗂️ Recovers lost/deleted files (images, videos, etc.) from storage devices
-- 🖥️ Built a user-friendly interface for scanning with file names and date-range filtering
-- 📂 Applied knowledge of **FAT & NTFS** file system structures to reconstruct corrupted/overwritten data blocks
-
----
-
-### 🌦️ Pixel Sky | AI-Based Weather Forecasting *(Mar 2025 – Nov 2025)*
-> Intelligent weather model integrating LLM with real-time meteorological data.
-
-- 🤖 Integrated a **Large Language Model (LLM)** with real-time weather data feeds
-- 💬 Users can query travel weather forecasts in **natural language** with high accuracy
-- 🌱 Included **soil moisture prediction** to assist agriculture in seasonal crop planning
-
----
-
-## 🏅 Certifications
-
-| Certificate | Issuer | Link |
-|---|---|---|
-| 🖧 Networking (Linux) | Tech Volt | LinkedIn |
-| 📊 Data Science & Analytics | HP (LIFE) | [View Certificate](https://www.life-global.org/certificate/b511b203-27f1-4d5d-8ce6-807b3ae71ff8) |
-| 🛡️ Cyber Security Terminology | LinkedIn Learning | [View Certificate](https://www.linkedin.com/posts/harishkumar-vs-9a86a8308_certificate-of-completion-activity-7363423698218860546-S60_) |
-
----
-
 ## 🧪 Security Platforms
 
 <div align="center">
@@ -100,23 +54,7 @@ public class HarishkumarVS {
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/hkdcys23)
 [![PortSwigger](https://img.shields.io/badge/PortSwigger_Academy-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/web-security)
 [![pwn.college](https://img.shields.io/badge/pwn.college-1a1a2e?style=for-the-badge&logo=hackthebox&logoColor=white)](https://pwn.college)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Harishkumar-47&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harishkumar-47&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" height="165"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Harishkumar-47&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/YNlXThPObY/)
 
 </div>
 
@@ -129,6 +67,7 @@ public class HarishkumarVS {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harishkumar-vs-9a86a8308)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harishkumar-47)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/hkdcys23)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/YNlXThPObY/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishmtb001@gmail.com)
 
 </div>
