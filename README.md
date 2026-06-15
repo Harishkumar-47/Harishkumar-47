@@ -8,9 +8,7 @@
 
 <div align="center">
 
-🧑‍💻 **B.E. CSE (Cyber Security)** — Sri Shakthi Institute of Engineering & Technology | CGPA: **8.0 / 10**
-
-📍 Tamil Nadu, India &nbsp;|&nbsp; 🔐 Cyber Security Undergraduate &nbsp;|&nbsp; 🐧 Linux Enthusiast
+🧑‍💻 📍 Tamil Nadu, India &nbsp;|&nbsp; 🔐 Cyber Security Undergraduate &nbsp;|&nbsp; 🐧 Linux Enthusiast
 
 </div>
 
