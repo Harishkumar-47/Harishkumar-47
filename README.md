@@ -18,11 +18,11 @@
 
 > *Motivated Cyber Security undergraduate with a strong foundation in networking, Linux systems, and ethical hacking. Passionate about identifying vulnerabilities and building secure digital environments.*
 
-- 🔐 Practicing **Web Application Security** — XSS, SQLi, Path Traversal, Access Control
-- 🐧 Deep-diving into **Linux administration** and Bash scripting via `pwn.college`
-- 🌐 Sharpening **Penetration Testing** and network recon skills on **TryHackMe**
-- 🔬 Completing practical labs on **PortSwigger Web Security Academy**
-- 🎯 Goal: Defending critical infrastructure and growing in Security Operations
+-  Practicing **Web Application Security** — XSS, SQLi, Path Traversal, Access Control
+-  Deep-diving into **Linux administration** and Bash scripting via `pwn.college`
+-  Sharpening **Penetration Testing** and network recon skills on **TryHackMe**
+-  Completing practical labs on **PortSwigger Web Security Academy**
+-  Goal: Defending critical infrastructure and growing in Security Operations
 
 ---
 
